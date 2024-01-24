@@ -1,0 +1,12 @@
+#########
+INPUT
+#########
+```
+ssh -i sshkey.private bandit14@bandit.labs.overthewire.org -p 2220
+cat /etc/bandit_pass/bandit14 --- (a)
+```
+
+##########
+OUTPUT
+##########
+(a) fGrHPx402xGC7U7rXKDaxiWFTOiF0ENq
