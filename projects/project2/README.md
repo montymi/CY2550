@@ -1,20 +1,20 @@
 # CY2550 Project 2
 
-[ ] `project2/key.pub`
-\t[X] RSA encryption
-\t[X] 4096 bits long
-\t[X] Full name
-\t[X] School email
-\t[X] Profile picture
-\t[ ] Signature 1
-\t[ ] Signature 2
-[X] `project2/message.txt.asc`
-\t[X] Encrypted with class key
-\t[X] Signed by private key
-[X] Create [Keybase](https://keybase.io/) account
-[ ] Follow Classmate 1
-[ ] Follow Classmate 2
-[X] Add SSH key to Github profile
+- [ ] `project2/key.pub`
+- [X]    RSA encryption
+- [X]    4096 bits long
+- [X]    Full name
+- [X]    School email
+- [X]    Profile picture
+- [ ]    Signature 1
+- [ ]    Signature 2
+- [X] `project2/message.txt.asc`
+- [X]    Encrypted with class key
+- [X]    Signed by private key
+- [X] Create [Keybase](https://keybase.io/) account
+- [ ]    Follow Classmate 1
+- [ ]    Follow Classmate 2
+- [X] Add SSH key to [Github profile](https://github.com/montymi)
 
 ## Signing a Public Key
 ```
