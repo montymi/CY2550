@@ -1,13 +1,13 @@
 # CY2550 Project 2
 
-- [ ] `project2/key.pub`
+- [X] `project2/key.pub`
 - [X]    RSA encryption
 - [X]    4096 bits long
 - [X]    Full name
 - [X]    School email
 - [X]    Profile picture
-- [ ]    Signature 1
-- [ ]    Signature 2
+- [X]    Signature 1
+- [X]    Signature 2
 - [X] `project2/message.txt.asc`
 - [X]    Encrypted with class key
 - [X]    Signed by private key
